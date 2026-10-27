@@ -1,20 +1,19 @@
 # Hi, I'm Pushhkar Gautam 👋
 
 🎓 B.Tech CSE student passionate about **Cybersecurity** and **App Development**  
-🔒 Currently focusing on **Cybersecurity** and **Android Development**  
-🚀 Aspiring to become a **Cybersecurity Expert**
+🔒 Currently focusing on **Cybersecurity** and **Development**  
+🚀 Aspiring to become a **Security Engineer**
 
 ---
 
 ### 🌱 What I'm Learning
-- Linux commands  
-- JavaScript  
-- Kotlin  
+- Cloud  
+- Cloud Security  
+- Penetration testing
+- Development
+- C language for kernel modification
 
----
-
-### 🛠 Tech & Tools
-- Frameworks: React  
+---  
 
 ---
 
